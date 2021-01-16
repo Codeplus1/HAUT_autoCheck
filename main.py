@@ -196,7 +196,7 @@ def wechatPush(title,sckey,success,fail,result):
 `{success}` 
 #### 打卡失败用户:
 `{fail}`
-#### 主用户打卡信息:
+#### 主用户打卡信息::
 ```
 {page}
 ```
